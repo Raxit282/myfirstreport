@@ -17,6 +17,7 @@ public class Firstapplication {
     //demonstration of show change
     //show hiostory
     //demonstrating pull
+    //fetch and change
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Hello");
