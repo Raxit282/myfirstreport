@@ -20,7 +20,7 @@ public class Firstapplication {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Hello");
-        System.out.println("Raxit");
+        System.out.println("Raxitnnn");
     }
     
 }
